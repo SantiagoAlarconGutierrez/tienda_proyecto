@@ -37,7 +37,7 @@ Proyecto de ejemplo que implementa una **tienda en línea** con operaciones CRUD
 
 ### 2️⃣ Ejecutar el proyecto
 
-```bash
+bash
 mvn spring-boot:run
 El   servidor se levantará en:
 http://localhost:8080
@@ -155,4 +155,28 @@ src/
  │       ├── application.properties
  │       └── data.sql (opcional)
  └── test/ (pendiente)
+ 
+## COLECCIÓN POSTMAN/CURL PARA DEMOSTRAR CASOS.
+<img width="921" height="375" alt="image" src="https://github.com/user-attachments/assets/d49bd988-a022-41b0-ab57-995711c3b4a4" />
+<img width="921" height="350" alt="image" src="https://github.com/user-attachments/assets/e501668e-2af9-42e3-a6bf-594e48b21596" />
+<img width="921" height="363" alt="image" src="https://github.com/user-attachments/assets/32a9400d-db14-4a7a-9b4f-04d7c151efc5" />
+<img width="921" height="374" alt="image" src="https://github.com/user-attachments/assets/c4fdcbda-4f6e-42b4-b061-fb7fc1ab54d1" />
+<img width="921" height="367" alt="image" src="https://github.com/user-attachments/assets/5323a44e-ac1e-4e8c-a723-11f322128314" />
+<img width="921" height="407" alt="image" src="https://github.com/user-attachments/assets/d59c3a3c-b601-4670-a0c9-afd8e434898d" />
+## CAPTURAS H2 CONSOLE O LOGS DE SQL EVIDENCIANDO RELACIONES
+<img width="409" height="146" alt="image" src="https://github.com/user-attachments/assets/876b794c-8fba-4446-94b3-0196966080a5" />
+<img width="221" height="126" alt="image" src="https://github.com/user-attachments/assets/88db8543-8ab4-4acd-ad08-522825cd855f" />
+<img width="348" height="165" alt="image" src="https://github.com/user-attachments/assets/df1bdb73-8c3b-452e-ab25-ec4d603aac9e" />
+<img width="330" height="170" alt="image" src="https://github.com/user-attachments/assets/66bda146-7e89-47ee-934d-e2e3ca6bcb5c" />
+<img width="466" height="205" alt="image" src="https://github.com/user-attachments/assets/26f64564-5d2d-43fd-9dfb-f64123a2f29f" />
+<img width="537" height="173" alt="image" src="https://github.com/user-attachments/assets/6286afda-567d-4d1f-928f-fc31d7ff9a06" />
+
+
+
+
+
+
+
+
+
 
