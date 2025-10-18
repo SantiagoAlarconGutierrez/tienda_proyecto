@@ -164,16 +164,32 @@ src/
 <img width="921" height="367" alt="image" src="https://github.com/user-attachments/assets/5323a44e-ac1e-4e8c-a723-11f322128314" />
 <img width="921" height="407" alt="image" src="https://github.com/user-attachments/assets/d59c3a3c-b601-4670-a0c9-afd8e434898d" />
 ## CAPTURAS H2 CONSOLE O LOGS DE SQL EVIDENCIANDO RELACIONES
-´´´
+
+---
+
 <img width="409" height="146" alt="image" src="https://github.com/user-attachments/assets/876b794c-8fba-4446-94b3-0196966080a5" />
+
+---
 
 <img width="221" height="126" alt="image" src="https://github.com/user-attachments/assets/88db8543-8ab4-4acd-ad08-522825cd855f" />
 
+---
+
 <img width="330" height="170" alt="image" src="https://github.com/user-attachments/assets/66bda146-7e89-47ee-934d-e2e3ca6bcb5c" />
+
+---
 
 <img width="466" height="205" alt="image" src="https://github.com/user-attachments/assets/26f64564-5d2d-43fd-9dfb-f64123a2f29f" />
 
+---
+
 <img width="537" height="173" alt="image" src="https://github.com/user-attachments/assets/6286afda-567d-4d1f-928f-fc31d7ff9a06" />
+
+---
+
+<img width="432" height="202" alt="image" src="https://github.com/user-attachments/assets/04bc8763-1d1e-4e70-8464-58d96cfa7241" />
+
+
 
 
 
