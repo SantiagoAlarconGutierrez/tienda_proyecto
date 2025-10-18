@@ -1,0 +1,22 @@
+# Carpetas de compilación
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDEs y editores
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
