@@ -141,6 +141,7 @@ Al eliminar un cliente, se eliminan sus pedidos (por orphanRemoval=true).
 Categorías con nombre repetido no se permiten (unique constraint).
 
 🧰 Estructura del proyecto
+
 src/
  ├── main/
  │   ├── java/com/example/tienda/
@@ -188,6 +189,7 @@ src/
 ---
 
 <img width="432" height="202" alt="image" src="https://github.com/user-attachments/assets/04bc8763-1d1e-4e70-8464-58d96cfa7241" />
+
 
 
 
